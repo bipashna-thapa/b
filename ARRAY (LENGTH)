@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+  int a[]="welcome"
+  int i, length;
+  length=size of [a];
+  for(i=0; i<length; i++)
+{
+  printf("%c", a[i]);
+  printf("\n");
+}
