@@ -1,0 +1,18 @@
+#include<stdio.h>
+void main()
+{
+  int size, i, value, total=0;
+  printf("\n enter size of x=");
+  scanf("%", & size);
+  int x [size];
+  printf("\n size of x=%d", size of(x));
+  for(i=0; i<size; i++)
+{
+  printf("\n Enter value %d for x x[%d]=", i+1, i);
+  scanf("%d", &value);
+  x[i]=value;
+}
+  for(i=0; i<size; i++)
+  total=total+x[i]*x[i];
+  printf("\n total=%d, total);
+}
