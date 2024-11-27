@@ -1,0 +1,14 @@
+#include<stdio.h>
+void main()
+{
+  int i;
+  clrscr();
+  for(i=65; i<91; i++)
+    printf("%c \t", (char) i);
+  printf("\n");
+  for(i=97; i<123; i++)
+    printf("%c \t", (char) i);
+  for(i=1; i<150; i++)
+    printf(("%c \t", (char) i);
+    getch();
+}
